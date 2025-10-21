@@ -49,13 +49,13 @@ const Contact = () => {
   ];
 
   return (
-    <section id="contact" className="py-20">
+    <section id="contact" className="py-24">
       <div className="container mx-auto px-6">
-        <div className="text-center mb-16">
-          <h2 className="text-4xl lg:text-5xl font-bold mb-6">
+        <div className="text-center mb-20">
+          <h2 className="text-4xl lg:text-6xl font-bold mb-8">
             ¡Hablemos!
           </h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+          <p className="text-xl lg:text-2xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
             Estoy siempre abierto a nuevas oportunidades, colaboraciones y conversaciones 
             sobre desarrollo web. No dudes en contactarme.
           </p>

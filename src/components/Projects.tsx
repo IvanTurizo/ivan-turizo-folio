@@ -31,13 +31,13 @@ const Projects = () => {
   ];
 
   return (
-    <section id="projects" className="py-20 bg-secondary/10">
+    <section id="projects" className="py-24 bg-secondary/5">
       <div className="container mx-auto px-6">
-        <div className="text-center mb-16">
-          <h2 className="text-4xl lg:text-5xl font-bold mb-6">
+        <div className="text-center mb-20">
+          <h2 className="text-4xl lg:text-6xl font-bold mb-8">
             Mis <span className="text-primary">Proyectos</span>
           </h2>
-          <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+          <p className="text-xl lg:text-2xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
             Una colección de proyectos que muestran mis habilidades y pasión por el desarrollo web
           </p>
         </div>
